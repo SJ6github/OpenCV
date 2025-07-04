@@ -4,7 +4,7 @@ This repository contains mini projects developed using Python, OpenCV, and Googl
 
 ---
 
-## 📁 Project Structure
+## Structure
 
 - `1. Hand_detection/`  
    Detects hand landmarks in real-time using your webcam.
@@ -14,7 +14,7 @@ This repository contains mini projects developed using Python, OpenCV, and Googl
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 - Python 3.x
 - OpenCV (`opencv-python`)
