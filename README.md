@@ -1,11 +1,6 @@
 # OpenCV projects
 This repository contains mini projects demonstrating use of Python, OpenCV, and Google's MediaPipe library.
 
-## Structure:
-`1. Hand_detection`
-
-`2. Finger_counter`
-
 ## Requirements:
 Python 3.x <br>
 OpenCV (`opencv-python`) <br>
