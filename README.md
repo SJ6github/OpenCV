@@ -1,14 +1,18 @@
-# MINI PROJECTS
+# Hand and Finger Detection Projects using OpenCV & MediaPipe
 
-This repository contains mini projects Python, OpenCV, and Google's MediaPipe library.
+This repository contains two mini projects demonstrating hand detection and finger counting using Python, OpenCV, and Google's MediaPipe library.
+
+---
 
 ## 📁 Project Structure
 
-- 1. Hand_detection/ 
+- `1. Hand_detection/`  
    Detects hand landmarks in real-time using your webcam.
 
-- 2. Finger_counter/ 
+- `2. Finger_counter/`  
    Counts the number of fingers being shown based on hand landmark analysis.
+
+---
 
 ## 🔧 Requirements
 
@@ -16,5 +20,6 @@ This repository contains mini projects Python, OpenCV, and Google's MediaPipe li
 - OpenCV (`opencv-python`)
 - MediaPipe
 
-## Install dependencies:
+Install dependencies:
+```bash
 pip install opencv-python mediapipe
