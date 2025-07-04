@@ -1,6 +1,6 @@
-# Hand and Finger Detection Projects using OpenCV & MediaPipe
+# Mini Projects
 
-This repository contains two mini projects demonstrating hand detection and finger counting using Python, OpenCV, and Google's MediaPipe library.
+This repository contains mini projects developed using Python, OpenCV, and Google's MediaPipe library.
 
 ---
 
