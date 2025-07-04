@@ -1,4 +1,4 @@
-# OpenCV projects
+# Projects
 This repository contains mini projects demonstrating use of Python, OpenCV, and Google's MediaPipe library.
 
 ## Requirements:
