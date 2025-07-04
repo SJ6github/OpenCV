@@ -1,12 +1,12 @@
 # OpenCV projects
 This repository contains mini projects demonstrating use of Python, OpenCV, and Google's MediaPipe library.
 
-## Structure
+## Structure:
 `1. Hand_detection`
 
 `2. Finger_counter`
 
-## Requirements
+## Requirements:
 Python 3.x <br>
 OpenCV (`opencv-python`) <br>
 MediaPipe 
@@ -14,12 +14,12 @@ MediaPipe
 ## Install dependencies:
 `pip install opencv-python mediapipe`
 
-## How to Run
+## How to Run:
 -Navigate to the desired project folder and run: <br>
 `python read.py` <br>
 -Make sure your webcam is connected and accessible.
 
-## Learn More
+## Learn More:
 
 To learn more about the tools used in these projects, take a look at the following resources:
 
