@@ -1,4 +1,5 @@
-## This repository contains mini projects demonstrating use of Python, OpenCV, and Google's MediaPipe library.
+## OpenCV projects
+This repository contains mini projects demonstrating use of Python, OpenCV, and Google's MediaPipe library.
 
 ---
 
@@ -21,3 +22,5 @@
 ## Install dependencies:
 ```bash
 pip install opencv-python mediapipe
+
+
